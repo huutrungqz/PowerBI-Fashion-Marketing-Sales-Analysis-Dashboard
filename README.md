@@ -167,9 +167,6 @@ DIVIDE([Mkt Spend], budget)
 - Data Modeling
 - DAX Calculations
 - Marketing Analytics
-- Business Analytics
 - Data Visualization
 - Dashboard Design
-- KPI Reporting
-
 ---
